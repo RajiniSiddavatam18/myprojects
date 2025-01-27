@@ -5,39 +5,49 @@ A Cafe Management System is a software application designed to automate and stre
 ## Table of Contents
 
  -(Installation)
+ 
  -(System Features)
+ 
  -(Advantages)
 
  # Installation
 
 step1: Download and install python from the offficial website:
      https://www.python.org/downloads
+     
 step2: Install required libraries
+
        pip install tkinter
+       
        pip install pandas
+       
        pip install pillow
+       
        pip install sqlite3
-step3 : download the project files 
+       
+step3 : download the project files
+
 step4: run the system
 
 # System Features 
 
- order Management, 
+-> order Management 
  
- Billing and Invoice Generation,
+-> Billing and Invoice Generation
+
+ ->Inventory Management
  
- Inventory Management,
- menu Management.
+ ->menu Management
 
  # Advantages
 
-  Reducess Manual Work,
+ -> Reducess Manual Work
   
-  Improves Order Accuracy,
+ -> Improves Order Accuracy
   
-  Simplifies Billing,
+ -> Simplifies Billing
   
-  Tracks Daily Sales Efficiently.
+  ->Tracks Daily Sales Efficiently
 
  
   
