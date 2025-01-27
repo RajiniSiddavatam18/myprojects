@@ -4,9 +4,9 @@ A Cafe Management System is a software application designed to automate and stre
 
 ## Table of Contents
 
--(Installation)
--(System Features)
--(Advantages)
+ -(Installation)
+ -(System Features)
+ -(Advantages)
 
  # Installation
 
@@ -22,17 +22,22 @@ step4: run the system
 
 # System Features 
 
- order Management 
- Billing and Invoice Generation
- Inventory Management
- menu Management
+ order Management, 
+ 
+ Billing and Invoice Generation,
+ 
+ Inventory Management,
+ menu Management.
 
  # Advantages
 
-  Reducess Manual Work
-  Improves Order Accuracy
-  Simplifies Billing
-  Tracks Daily Sales Efficiently
+  Reducess Manual Work,
+  
+  Improves Order Accuracy,
+  
+  Simplifies Billing,
+  
+  Tracks Daily Sales Efficiently.
 
  
   
