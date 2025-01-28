@@ -1,0 +1,16 @@
+##Iris Flower Classification 
+
+The Iris Flower Classification project is a machine learning project where the goal is to classify iris flowers into one of three species: Setosa, Versicolor, and Virginica. This is based on the measurements of four features:
+
+1. Sepal Length
+
+
+2. Sepal Width
+
+
+3. Petal Length
+
+
+4. Petal Width
+
+This project demonstrates how machine learning algorithms can analyze data and make predictions. It is one of the most famous examples in the field of supervised learning.
